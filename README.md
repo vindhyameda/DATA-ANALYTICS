@@ -34,11 +34,18 @@
 
 
 <h2>PROJECTS ON GITHUB:</h2>
-- EXCEL_ADVANCED: Analyzing Employee Salary data using advanced EXCEL functions like STATISTICAL Methods, PIVOT Tables, SLICERS, XLOOKUP
-- SQL PROJECT: Analyzing Employee Salary Data using SYNTAX like WHERE, MAx, MIN, EMBEDDED SQL QUERY, GROUP BY, JOINS etc.
-- POWER BI: ETL Extraction, Transformation and Loading Tables from different type of files, Creating different appropiate visuals, designing and formatting reports. 
+
+- SQL PROJECT: Analyzing Employee Salary Data using SYNTAX like WHERE, MAx, MIN, EMBEDDED SQL QUERY, GROUP BY, JOINS etc. 
+  
+- POWER BI: ETL Extraction, Transformation and Loading Tables from different type of files, Creating different appropiate visuals, designing and formatting reports.
+  
 - AZURE BOARDS: Creating dashboards for SPRINT ANALYSIS and QUALITY TEST SUITES for regression and functional testing.
+  
 - PYTHON: Connecting to server, Importing LIBRARIES like PANDAS, PYODBC, CSV, using FUNCTIONS to run queries.
+  
+- EXCEL_ADVANCED: Analyzing Employee Salary data using advanced EXCEL functions like STATISTICAL Methods, PIVOT Tables, SLICERS, XLOOKUP.
+ 
+ 
 
 
   
