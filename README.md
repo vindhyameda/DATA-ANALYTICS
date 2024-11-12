@@ -47,7 +47,7 @@
       
 - PYTHON: Connecting to server, Importing LIBRARIES like PANDAS, PYODBC, CSV, using FUNCTIONS to run queries.
    - [NYC TAXI REFUND AND FARES](https://github.com/vindhyameda/DATA-ANALYTICS/blob/main/NYC%20Taxi%20Project.py)
-   - [HELLO WORLD]https://github.com/vindhyameda/DATA-ANALYTICS/blob/main/1.%20HelloWorld.py)
+   - [HELLO WORLD](https://github.com/vindhyameda/DATA-ANALYTICS/blob/main/1.%20HelloWorld.py)
    - [FIND A DISH CUISINE](https://github.com/vindhyameda/DATA-ANALYTICS/blob/main/FindTheDish.py)
      
 - AZURE: Creating dashboards for SPRINT ANALYSIS and QUALITY TEST SUITES for regression and functional testing.
