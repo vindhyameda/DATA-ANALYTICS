@@ -39,7 +39,7 @@
   
 - POWER BI: ETL Extraction, Transformation and Loading Tables from different type of files, Creating different appropiate visuals, designing and formatting reports.
   
-- AZURE BOARDS: Creating dashboards for SPRINT ANALYSIS and QUALITY TEST SUITES for regression and functional testing.
+- AZURE: Creating dashboards for SPRINT ANALYSIS and QUALITY TEST SUITES for regression and functional testing.
   
 - PYTHON: Connecting to server, Importing LIBRARIES like PANDAS, PYODBC, CSV, using FUNCTIONS to run queries.
   
