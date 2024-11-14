@@ -40,6 +40,7 @@
 
 - SQL: Analyzing Employee Salary Data using SYNTAX like WHERE, MAx, MIN, EMBEDDED SQL QUERY, GROUP BY, JOINS etc.
   - [EMPLOYEE REGION, DEPARTMENT, SALARY](https://github.com/vindhyameda/DATA-ANALYTICS/blob/main/SQLQuery1.sql)
+  - [NON-PROFIT DONATION TRENDS](https://github.com/vindhyameda/DATA-ANALYTICS-VISUALIZATION-REPORTING/blob/main/SQL%20file%20for%20GW%20Donation%20Trends.sql)
   
 - POWER BI: ETL Extraction, Transformation and Loading Tables from different type of files, Creating different appropiate visuals, designing and formatting reports.
   - [SURVEY_BREAKDOWN FOR DATA PROFESSIONAL](https://github.com/vindhyameda/DATA-ANALYTICS/blob/main/Power%20BI%20Beginners%20Project.pbix)
